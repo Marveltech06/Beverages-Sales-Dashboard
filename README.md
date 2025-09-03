@@ -35,7 +35,7 @@ The Beverages Sales Dashboard is an interactive Excel-based dashboard designed t
 The dashboard highlights key metrics such as total sales, revenue trends, top-performing products, customer distribution, and regional performance.
 It serves as a one-stop view for analyzing sales performance and identifying growth opportunities.
 ![](Dashbord.png)
-To interact with the dashboard, click [Download here](Beverages_Dashbord1.xlxs)
+To interact with the dashboard, click [Download here](Beverages_Dashbord1.xlsx)
 ## 🔑 Insights Generated
 - Chocolate Chip emerged as the best-performing product, driving the highest revenue and units sold.
 - Certain countries (e.g., India and the United Kingdom) contributed significantly to overall profitability.
