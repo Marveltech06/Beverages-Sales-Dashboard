@@ -27,9 +27,8 @@ The Beverages Sales Dashboard is an interactive Excel-based dashboard designed t
 - Monthly Sales Data
 ## This dataset was cleaned and structured in Excel for effective visualization.
   **Cleaned Data**
- :.......................:
    ![](Cleaneddata1.png)
-   [Downloadhere](Beverages_Cleandata.xlsx)
+   [Downloadhere](Beverages_Cleanddata.xlsx)
    
    
 
