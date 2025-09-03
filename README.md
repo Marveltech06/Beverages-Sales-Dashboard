@@ -1,9 +1,9 @@
 # Beverages-Sales-Dashboard
-This project focuses on analyzing sales data for different beverage products across countries such as India, Malaysia, the Philippines, the United Kingdom, and the United States. The dashboard was built in Excel with advanced features, including interactive slicers for product and country, as well as multiple KPIs to monitor overall sales performance.
-## Project Sumaary
-The Beverages Sales Dashboard is an interactive Excel-based dashboard designed to provide business stakeholders with clear insights into sales performance, profitability, cost vs revenue trends, and product distribution across multiple countries. The dashboard makes use of slicers, KPIs, and dynamic visualizations to support quick decision-making.
+This project focuses on analyzing sales data for various beverage products across countries, including India, Malaysia, the Philippines, the United Kingdom, and the United States. The dashboard was built in Excel with advanced features, including interactive slicers for product and country, as well as multiple KPIs to monitor overall sales performance.
+## Project Summary
+The Beverages Sales Dashboard is an interactive Excel-based dashboard designed to provide business stakeholders with clear insights into sales performance, profitability, cost vs revenue trends, and product distribution across multiple countries. The dashboard utilizes slicers, KPIs, and dynamic visualizations to facilitate quick decision-making.
 ### Key Features
-#### KPIs Inludes:
+#### KPIs Include:
 - Total Sales
 - Total Cost
 - Total Revenue
@@ -28,7 +28,9 @@ The Beverages Sales Dashboard is an interactive Excel-based dashboard designed t
 ## This dataset was cleaned and structured in Excel for effective visualization.
   **Cleaned Data**
  :.......................:
-   ![](Cleaneddata.png)
+   ![](Cleaneddata1.png)
+   [Downloadhere](Beverages_cleandata.xlsx)
+   
 
 
 
