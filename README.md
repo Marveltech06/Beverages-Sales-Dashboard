@@ -33,7 +33,7 @@ The Beverages Sales Dashboard is an interactive Excel-based dashboard designed t
 #### Below is a snapshot of the interactive Beverages Sales Dashboard.
 The dashboard highlights key metrics such as total sales, revenue trends, top-performing products, customer distribution, and regional performance.
 It serves as a one-stop view for analyzing sales performance and identifying growth opportunities.
-![](Dashboard.png)
+![](Dashbord.png)
 To interact with the dashboard click [Download](Beverages_Dashboard1.xlxs)
 
 
